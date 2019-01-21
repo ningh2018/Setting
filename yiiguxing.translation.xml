@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="talk about it later" />
       <item value="Simulation Change Cell" />
       <item value="has Command Is Executing" />
       <item value="EVENT DOUYIN end test" />
@@ -50,12 +51,11 @@
       <item value="NOTIFICATION OPENED" />
       <item value="NOTIFICATION RECEIVED" />
       <item value="MESSAGE RECEIVED" />
-      <item value="REGISTRATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
